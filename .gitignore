@@ -1,0 +1,4 @@
+
+src/gopkg.in/mgo.v2
+bin/**.*
+pkg/**.*
